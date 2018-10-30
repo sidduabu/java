@@ -1,0 +1,21 @@
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+------ Ended TC001_VerifyLoginWithInvalidCredentials -------
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+clicked on sign in using with object : [[ChromeDriver: chrome on XP (8d7fd803de50982aac1fda5a3833fd79)] -> link text: Sign in]
+Entered username : QATest2966@Gmail.comusing with object : [[ChromeDriver: chrome on XP (8d7fd803de50982aac1fda5a3833fd79)] -> id: email_create]
+------ Ended TC001_VerifyLoginWithInvalidCredentials -------
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+clicked on sign in using with object : [[ChromeDriver: chrome on XP (e942682ca65f2a78b5c26024b436caa9)] -> link text: Sign in]
+Entered username : QATest1947@Gmail.comusing with object : [[ChromeDriver: chrome on XP (e942682ca65f2a78b5c26024b436caa9)] -> id: email_create]
+------ Ended TC001_VerifyLoginWithInvalidCredentials -------
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+clicked on sign in using with object : [[ChromeDriver: chrome on XP (9f640734c676ff2473b8bec429ac3be9)] -> link text: Sign in]
+Entered username : QATest8407@Gmail.comusing with object : [[ChromeDriver: chrome on XP (9f640734c676ff2473b8bec429ac3be9)] -> id: email_create]
+------ Ended TC001_VerifyLoginWithInvalidCredentials -------
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+clicked on sign in using with object : [[ChromeDriver: chrome on XP (5c24c58b602d1d97b2011ffaa17542da)] -> link text: Sign in]
+Entered username : QATest6761@Gmail.comusing with object : [[ChromeDriver: chrome on XP (5c24c58b602d1d97b2011ffaa17542da)] -> id: email_create]
+------      Started TC001_VerifyLoginWithInvalidCredentials     -------
+clicked on sign in using with object : [[ChromeDriver: chrome on XP (89b6312b255a40b44d561bf79ea97deb)] -> link text: Sign in]
+Entered username : QATest9643@Gmail.comusing with object : [[ChromeDriver: chrome on XP (89b6312b255a40b44d561bf79ea97deb)] -> id: email_create]
+------ Ended TC001_VerifyLoginWithInvalidCredentials -------
